@@ -2,19 +2,27 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Yarn.Unity.Example {
+//You can use any namespace, it just needs to match the Dialogue UI
+namespace Yarn.Unity.Demo {
 
     public class YarnCommands : MonoBehaviour {
 
-        public GameObject ConfettiParticles;
+        //this GameObject is my glitter particle effect prefab
         public GameObject SpaceParticles;
-       /// Create a command to use on a sprite
+       
+       /// Create a command and call it "generateParticles"
         [YarnCommand("generateParticles")]
+        //the yarn command's effect is on the function underneath it
+        //all parameters MUST be strings
+        //The yarn function is called with <<CommandName GameObject StringParameters>>
+        //ie this is <<generateParticles GameController space>>
         public void generateParticles(string particleName) {
+            //if the parameter is space
             if(particleName == "space") {
+                //create the glitter prefab
                 Instantiate(SpaceParticles, new Vector3(0, 0, 0), Quaternion.identity);
             } else {
-                Instantiate(ConfettiParticles, new Vector3(0, 0, 0), Quaternion.identity);
+                //do nothing
             }
         }
     }

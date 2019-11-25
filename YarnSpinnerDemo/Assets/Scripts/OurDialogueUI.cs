@@ -31,7 +31,7 @@ using System.Text;
 using TMPro;
 using System.Collections.Generic;
 
-namespace Yarn.Unity.Example {
+namespace Yarn.Unity.Demo {
     /// Displays dialogue lines to the player, and sends
     /// user choices back to the dialogue system.
 
