@@ -18,8 +18,6 @@ This is what Employee 427 did every day of every month and every year, and altho
 
 And Stanley was happy.
 
-<<generateParticles GameController space>>
-
 And then one day, something very peculiar happened. 
 
 Something that would forever change Stanley. 
