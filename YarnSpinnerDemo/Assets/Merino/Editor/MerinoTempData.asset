@@ -1,0 +1,354 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13981b66f67204744891820795ef4230, type: 3}
+  m_Name: MerinoTempData
+  m_EditorClassIdentifier: 
+  editedID: 11
+  timestamp: 32932.260676467
+  viewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 0b000000
+    m_LastClickedID: 12
+    m_ExpandedIDs: 0000000001000000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+  currentFiles:
+  - {fileID: 4900000, guid: 4c8f9e6459e2545ceae4452f9632a499, type: 3}
+  dirtyFiles: []
+  treeElements:
+  - m_ID: 0
+    m_Name: Root
+    m_Depth: -1
+    nodeTags: 
+    nodeBody: 
+    leafType: 0
+    nodePosition: {x: 0, y: 0}
+    cachedParentID: -1
+    cachedSize: 0
+  - m_ID: 1
+    m_Name: stanleyparable.yarn
+    m_Depth: 0
+    nodeTags: 
+    nodeBody: 
+    leafType: 1
+    nodePosition: {x: 0, y: 0}
+    cachedParentID: -1
+    cachedSize: 0
+  - m_ID: 2
+    m_Name: Start
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "This is the story of a man named Stanley.\n\nStanley worked for a company
+      in a big building where he was employee number 427. \n\nEmployee Number 427's
+      job was simple: he sat at his desk in room 427, and he pushed buttons on a keyboard.
+      \n\nOrders came to him through a monitor on his desk, telling him what buttons
+      to push, how long to push them, and in what order.\n\nThis is what Employee
+      427 did every day of every month and every year, and although others might have
+      considered it soul-rending, Stanley relished every moment that the orders came
+      in, as though he had been made exactly for this job.\n\nAnd Stanley was happy.\n\nAnd
+      then one day, something very peculiar happened. \n\nSomething that would forever
+      change Stanley. \n\nSomething he would never quite forget.\n\nHe had been at
+      his desk for nearly an hour when he realized that not one single order had arrived
+      on the monitor for him to follow. \n\nNo-one had showed up to give him instructions,
+      call a meeting, or even say \"Hi\". \n\nNever in all his years at the company
+      had this happened - this complete isolation. \n\nSomething was very clearly
+      wrong. \n\nShocked, frozen solid, Stanley found himself unable to move for the
+      longest time. But as he came to his wits and regained his senses, he got up
+      from his desk and stepped out of his office.\n\n[[>> Step out of your office|StepOut]]\n[[>>
+      Close your office door|CloseDoor]]"
+    leafType: 0
+    nodePosition: {x: 105, y: 18}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 3
+    m_Name: StepOut
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "As he stepped out of his cubicle, Stanley was dumbfounded to find his
+      day-to-day office, usually packed with his busy co-workers, was completely empty.
+      \n\nNo one was clacking at their keyboards, staring at screens, drinking their
+      mugs of coffee, nothing.\n\nStanley slowly stepped through the office, gentle
+      noises of his shoes against the murky-yellow carpeted floor. \n\nNot a whisper
+      or word anywhere. He looked into the windows of the other cubicles, but no workers
+      in sight. \n\nEven the tall, green pot plant outside Room 420 was beginning
+      to die, and Employee 420 always watered it every morning. Quiet humming and
+      beeps came from the clean, white tables. \n\nA quick glance proved even the
+      computers were still on. The two large windows on the opposite wall were filled
+      with blinding white light, and Stanley was never sure even when they were this
+      bright before.\n\nHe took one last, desperate look around, but nothing...\n\nStanley
+      was alone. What could it have meant? Stanley decided to go to the meeting room,
+      perhaps he had simply missed an urgent memo.\n\n-> >> Walk into the hallway\n\nAs
+      Stanley walked into the hallway, he came to an empty room with a set of two
+      open doors: One on his left, and one on his right. The way to the meeting room
+      was the left door, so without hesitation, he entered that one.\n\n[[>>Enter
+      the left door|GoLeft1]]\n[[>>Enter the right door|GoRight1]]"
+    leafType: 0
+    nodePosition: {x: 359, y: -6}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 4
+    m_Name: CloseDoor
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "Stanley stands in the door way, taking one last look at the grand work
+      space in front of him, and closes his office door.\n\nStanley simply couldn't
+      handle the pressure. What if he had to make a decision? What if a crucial outcome
+      fell under his responsibility? \nHe had never been trained for that! No, this
+      couldn't go any way except badly. The thing to do now was to wait. \nNothing
+      will hurt me, Stanley thought, nothing will break me.\nIn here I can be happy
+      forever. \nI will be happy.\n\nStanley waited. \nHours passed. \nThen days.
+      \nHad years gone by? \nHe no longer had the ability to tell. \nBut one thing
+      he was sure of was that some day, the answers would come. Eventually, they would
+      arrive. Very soon now, this will end. He will be spoken to. He will be told
+      what to do. Now it's just a little bit closer. Here it comes...\n[[TheEnd]]"
+    leafType: 0
+    nodePosition: {x: 93, y: 221}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 5
+    m_Name: TheEnd
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: GAME OVER
+    leafType: 0
+    nodePosition: {x: 90, y: 458}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 6
+    m_Name: GoRight1
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "This was not the correct way to the meeting room, and Stanley knew
+      it perfectly well. \nThis of course was the way to the employee lounge, so perhaps
+      Stanley wanted to stop by it first, just to admire it.\n-> >> Enter the Lounge
+      \nAh, yes, truly a room worth admiring. The room was coated in gentle deep-sea
+      blue wallpaper. \nSeveral recliners and coffee tables littered the room and
+      a cold drink machine sat in the corner humming quietly. \nWhat a room, what
+      a room.\n\n-> >> Admire the employee lounge\n    Yeeesss, really, really worth
+      it being in this room. \n    A room so utterly eye-catching, even though your
+      co-workers had all vanished, you decide to spend your time gawking at some chairs
+      and paintings. \n    Really worth it, Stanley.\n    -> >> Continue Admiring
+      \n        At this point, Stanley's obsession on this room was on the brink of
+      being creepy, and reflected poorly on his overall personality. \n        This
+      is probably why everyone left.\n        -> \n        -> \n    -> >> Get back
+      to Buisness \n        [[GoLeft1]]\n-> >>Go to the meeting room \n    [[GoLeft1]]\n
+      \   \n\n\n"
+    leafType: 0
+    nodePosition: {x: 356, y: 146}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 7
+    m_Name: GoLeft1
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "Stanley walked through the hallway into the meeting room.\nOnce again,
+      he was greeted with an empty room, filled with a large table with several chairs
+      up against it. \nBusiness charts riddled with statistics littered the walls.\n\nApart
+      from Stanley, there was not a single person here either. \nFeeling a wave of
+      disbelief, Stanley decided to go up to his boss's office, hoping he'd find an
+      answer there. \nAs he exited the meeting room, he entered another hallway. On
+      his left was a door titled BROOM CLOSET.\n[[>>Enter the BROOM CLOSET|BroomCloset]]\n[[>>Go
+      to the Staircase|Staircase]]"
+    leafType: 0
+    nodePosition: {x: 591, y: -8}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 8
+    m_Name: Staircase
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: 'Coming to two opposite staircases, Stanley walked upstairs to his boss''s
+      office.
+
+      [[>>Go Upstairs|Upstairs]]
+
+      [[>>Go Downstairs|Downstairs]]'
+    leafType: 0
+    nodePosition: {x: 834, y: -145}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 9
+    m_Name: BroomCloset
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "Stanley stepped into the broom closet, cramped in a tiny cubical, surrounded
+      by cardboard boxes and a wooden mop. \nThere was nothing there. So, he turned
+      around and got back on track.\n-> >>Get back on track\n   [[Staircase]]\n->
+      >>Stay in the broom closet\n    There was nothing here. \n    No choice to take,
+      no path to follow; just an empty broom closet. \n    No reason to still be there.\n
+      \         -> >>Get back on track\n   \t [[Staircase]] \n          -> >>Continue
+      to Stay in Broom Closet\n\tIt was baffling that Stanley was still just sitting
+      in the broom closet. \n\tHe wasn't even doing anything! \n\tAt least if there
+      was something to interact with, he'd be justified in some way.\n\t\t-> >>Get
+      back on track\n   \t      \t[[Staircase]] \n\t\t-> >> Continue to do nothing\n\t
+      \   Are you... Are you really still in the broom closet? \n\t    Standing around
+      doing nothing?\n  \t    ...Why?\n\t    Please offer me some explanation here,
+      I'm genuinely confused.\n\t    -> >>Get back on track\n   \t \t[[Staircase]]
+      \n\t    -> >> I'm waiting for more dialogue\n\t         You do realise there's
+      no choice or anything in here, right? \n\t         If I had said \"Stanley walked
+      past the broom closet\", at least you would've have a reason for exploring it
+      to find out. \n\t         But, it didn't even occur to me because literally
+      this closet is of absolutely no significance to the story, whatsoever. \n\t
+      \        I never would've thought to mention it.\n\t\t-> >> My choice is to
+      stay in this broom closet\n\t\tMaybe to you, this is somehow its own branching
+      path. \n\t\tMaybe, when you go talk about this with your friends, you'll say
+      \"Oh, did you get the broom closet ending? \n\t\tThe broom closet ending was
+      my favourite!\" \n\t\tI hope your friends find this concerning.\n\t\t       ->>
+      >> I have no friends, I think I'll stay here\n\t\t       Stanley was fat and
+      ugly and really, really stupid. \n\t\t       He probably only got the job because
+      of a family connection, that's how stupid he is. \n\t\t       That or with drug
+      money. \n\t\t       Also, Stanley is addicted to drugs and hookers.\n\t\t\t->>
+      >> This broom closet is my home\n\t\t\tWell, I've come to a very definite conclusion
+      about what's going on right now: \n\t\t\tYou're dead. \n\t\t\tYou got to this
+      broom closet, explored it a bit, and were just about to leave because there's
+      nothing here, when a physical melody of some sort, shut down your central nervous
+      system, and you collapsed on the keyboard. \n\t\t\tWell, in a situation like
+      this, the responsible thing is to alert someone nearby, so as to ensure that
+      your body is taken care of before it begins to decompose.\n\n\t\t\tHello? \n\t\t\tAnyone
+      who happens to be reading this, the person at this computer is dead. \n\t\t\tHe
+      or she has fallen prey to any number of your countless human physiological vulnerabilities!
+      It's indicative of the long-term sustainability of your species! \n\t\t\tPlease
+      remove their corpse from the area, and instruct another human to take their
+      place at the computer; making sure they understand basic text-based game mechanics,
+      and filling them in on the history of narrative tropes in gaming so that the
+      irony and insightful commentary of this game is not lost on them!\n\t\t\t[[TheEnd]]\n"
+    leafType: 0
+    nodePosition: {x: 787, y: 25}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 10
+    m_Name: Upstairs
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "Stepping into his manager's unnecessarily large office, Stanley was
+      once again stunned to find not an indication of any human life. Shocked, unraveled,
+      Stanley wondered in disbelief who orchestrated this, what dark secrets were
+      being held from him!\n\nWhat he could not have known was that the keypad behind
+      the boss's desk guarded the terrible truth that his boss had been keeping from
+      him, and so the boss had assigned it an extra secret pin number:\n\n2 - 8 -
+      4 - 5.\n\n-> Enter 2-8-4-5 into the keypad\n\nYet amazingly, buy pushing random
+      buttons into the keypad, Stanley discovered the correct code by sheer luck.
+      Bravo, Stanley. \nThe panel on the wall opened up and Stanley walked into the
+      opened passageway.\n[[LazyMiles]]\n\n-> Enter the passageway\n\nAfter entering
+      the darkened passageway, Stanley found an elevator with a large red button.
+      \nHe got into the elevator.\n[[LazyMiles]]\n\n\n-> Push the red button.\n    With
+      a jiggle and a metallic shake, the elevator sunk slowly into the ground.\n    \n
+      \   As it descended deeper and deeper into the building, Stanley realised he
+      felt a bit peculiar. \n    It was a stirring of emotion in his chest, as though
+      he felt more free to think for himself; to question the nature of his job. Why
+      did he feel this now, when for years, it had never occurred to him? \n    This
+      question would not go unanswered for long.\n    \n    The elevator came to a
+      shuddering halt and the rusty door wrenched open. \n    Stanley walked straight
+      ahead to the large door that read 'Mind Control Facility'. \n    There was also
+      a long hallway on the left labeled crudely with a marker. \n    The sign read
+      'Escape', but Stanley took no notice.\n[[LazyMiles]]\n\n\n-> Don't push the
+      button\n    Boop\n[[LazyMiles]]\n\n"
+    leafType: 0
+    nodePosition: {x: 1204, y: -167}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 11
+    m_Name: Downstairs
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "But Stanley just couldn't do it. \n\nHe considered the possibility
+      of facing his boss, admitting he had left his post during work hours.\n\nHe
+      might be fired for that. \n\nAnd in such a competitive economy, why had he taken
+      that risk? \n\nAll because he had believed everyone had vanished? His boss would
+      think he was crazy.\n\nAnd then something occurred to Stanley.\n\n\"Maybe,\"
+      He thought to himself. \"Maybe, I am crazy. All of my co-workers blinking mysteriously
+      out of existence in a single moment, for no reason at all?\" None of it made
+      any logical sense.\n\nStanley began to pace further into the room, pondering
+      how all this could be possible.\n\n-> >>Walk into the next room\n\nAs he pondered
+      this, he began to make other strange observations. \nFor example; why couldn't
+      he see his feet when he looked down? \nWhy did doors close automatically behind
+      where ever he went? \nAnd for that matter, these rooms were starting to look
+      pretty familiar. Were they simply repeating? \"No,\" Stanley thought to himself.
+      \"This is all too strange, this can't be real...\"\n\nAnd at last, he came to
+      the conclusion that had been on the tip of his tongue.\n\nHe just hadn't found
+      the words for it.\n\n\"I'M DREAMING!\" \nHe yelled. \n\"This is all a dream!\".\n\nAh,
+      what a relief Stanley felt to have finally found an answer; an explanation.
+      \n\nHis co-workers weren't actually gone, he wasn't going to lose his job, he
+      wasn't crazy after all. \n\nAnd he thought to himself, \"I'll suppose I'll wake
+      up soon. I'll have to go back to my boring real life job pushing buttons, I
+      may as well enjoy this while I'm still lucid.\n\n-> >> Begin lucid dreaming\n\nStanley
+      imagined himself flying, and began to gently float above the ground. \nThen
+      he imagined himself soaring through space on a magical star field, and it too,
+      appeared. \nIt was so much fun!\nAnd Stanley marveled that he still hadn't woken
+      up. \nHow was he remaining so lucid? \nAnd then perhaps the strangest question
+      of them all entered Stanley's head, one he was amazed he hadn't asked himself
+      sooner:\n\nWhy is there a page of text, dictating everything I'm doing and thinking?
+      \nNow the text was describing itself being considered by Stanley, who found
+      it particularly strange. \n\"I'm dreaming about a text, describing me thinking
+      about how it's describing my thoughts.\" \nHe thought. \nAnd while he thought
+      it all very odd, and wondered if this text appeared to all people in their dreams,
+      the truth was, this was not a dream. \nHow could it be? \nWas Stanley simply
+      deceiving himself? \nBelieving that if he's asleep, that he doesn't have to
+      take responsibility for himself?\n\nStanley is as awake right now as he's ever
+      been in his life. \nNow seeing the text printing these words was quite a shock
+      to Stanley. After all, he knew for certain, without a doubt, that this was,
+      in fact, a dream. \nDid the text not see him float and make the magical stars
+      just a moment ago? \nHow else would the text explain all that? \nThis text was
+      a part of himself too! Surely, surely, if he could...\n\nHe would prove it.
+      He would prove that he was in control. \nThat this was a dream. \nSo he closed
+      his eyes gently, and he invited himself to wake up.\n\n-> >> Close your eyes\n\nHe
+      felt the cool weight of the blanket on his skin.\nThe press of the mattress
+      on his back. \nThe fresh air of the world outside this one.\n\n\"Let me wake
+      up.\" \nHe thought to himself. \n\"I'm through with this dream. I wish it to
+      be over. Let me go back to my job. Let me continue pushing the buttons.\"\n\"Please,
+      it's all I want.\" \n\nI. \nAm. \nOkay...\n\n-> >> Open your eyes\n\nStanley
+      opened his eyes, still in the exact same room he was in moments ago.\n\nNothing
+      had changed. He began screaming.\n\nStanley collapsed on the ground, and everything
+      went black.\n\n-> >> Die\n\nThis is the story of a woman named Mariella\n\nMariella
+      woke up on a day like any other. \nShe arose, got dressed, gathered her belongings,
+      and walked to her place of work. \nBut on this particular day, her walk was
+      interrupted by the body of a man who was wandering through town, talking and
+      screaming to himself, and collapsed dead on the sidewalk. \nAnd although she
+      would soon turn and call for an ambulance, for a few brief moments, she considered
+      the strange man. \nHe was obviously crazy, this much she knew. \nEveryone knows
+      what crazy people look like. \nAnd in that moment, she thought to herself how
+      lucky she was to be normal.\n\n\"I am sane.\" \nshe thought. \n\"I am in control
+      of my mind. I know what is real, and what isn't.\"\nIt was comforting to think
+      this, and in a certain way, seeing this man made her feel better. \nBut then
+      she remembered the meeting she had scheduled for that day; the very important
+      people, who's impressions of her would affect her career, and by extension:
+      the rest of her life. \nShe had no time for this, so it was only a moment she
+      stood there, staring down at the body.\n\nAnd then she turned and ran.\n\n[[TheEnd]]\n"
+    leafType: 0
+    nodePosition: {x: 1065, y: -42}
+    cachedParentID: 1
+    cachedSize: 100
+  - m_ID: 12
+    m_Name: LazyMiles
+    m_Depth: 1
+    nodeTags: 
+    nodeBody: "hi this was written by miles, and he has gotten lazy\nso congrats!
+      this is the end of the demo \n[[TheEnd]]"
+    leafType: 0
+    nodePosition: {x: 0, y: 0}
+    cachedParentID: 1
+    cachedSize: 100
