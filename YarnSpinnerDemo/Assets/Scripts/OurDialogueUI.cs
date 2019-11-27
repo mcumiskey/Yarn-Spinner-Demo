@@ -142,6 +142,7 @@ namespace Yarn.Unity.Demo {
             foreach (var optionString in optionsCollection.options) {
                 optionButtons [i].gameObject.SetActive (true);
                 optionButtons [i].GetComponentInChildren<TextMeshProUGUI> ().text = optionString;
+                Debug.Log(i +": " + optionString);
                 i++;
             }
 
